@@ -24,6 +24,12 @@
 2. 파일 처리
    - [tree.raw](tree.raw)
 
+3. 실습 파일:
+
+- [Chapter10.ipynb](Chapter10.ipynb)
+- [Chapter11.ipynb](Chapter11.ipynb)
+
+
 4. 오후 4시 평가
 
 ---
